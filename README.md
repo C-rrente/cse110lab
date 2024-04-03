@@ -1,2 +1,1 @@
-# cse110lab
-Lab repo for UCSD CSE 110
+Logan's User Page
