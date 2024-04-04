@@ -1,0 +1,3 @@
+## My school experience
+
+I started college at Clovis Community College in my hometown. After two years of strenuous work, I transferred to UC San Diego where I am now. It has been a long and hard journey but I am now nearing graduation and I am hoping to enter the workforce ready for anything. I have a great passion for computing and would like to influence the world with great tech and innovation.
