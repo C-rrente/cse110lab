@@ -1,5 +1,3 @@
-theme: jekyll-theme-minimal
-
 # I am Logan 
 
 ![Image of Logan Corrente from Linkedin](https://media.licdn.com/dms/image/C5603AQFWRp3G5Iu92A/profile-displayphoto-shrink_800_800/0/1650402655338?e=1717632000&v=beta&t=66oSWCAG3hes_FP7hMdApp3aHoUlVJcKWyy7XeqvT50)
