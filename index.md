@@ -51,7 +51,7 @@ This code is from Quake and is a function that computes the inverse square root.
 
 ## Goals for this course 
 
-- [x]  Be as good as Bjarne :+1:
+- [x]  Be as good as Bjarne
 - [ ]  Finish tasks on time
 - [ ]  Contribute well to team
 - [ ]  Stay organized
